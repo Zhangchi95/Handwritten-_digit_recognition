@@ -1,4 +1,4 @@
-# Handwritten-_digit_recognition
+# Handwritten_digit_recognition
 ## a Handwritten digit recognition application using three classifers
 ### 1.Introduction
 In this application, I will use three classifier: support vector machine(svm), three-layer neural network, and decistion tree to recognize handwritten digit at same time seperately and finally output the majority of these three outputs
